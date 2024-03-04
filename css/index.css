@@ -2,7 +2,7 @@
 	 float: left;
 }
  nav {
-	 float: right;
+	 margin-left: 600px;
 }
  nav ul {
 	 margin: 0;
